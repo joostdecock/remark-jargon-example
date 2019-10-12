@@ -1,0 +1,24 @@
+{
+  "name": "remark-jargon-example",
+  "version": "1.0.0",
+  "description": "Example repository for the remark-jargon plugin for remark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joostdecock/remark-jargon-example.git"
+  },
+  "author": "Joost De Cock <joost@decock.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joostdecock/remark-jargon-example/issues"
+  },
+  "homepage": "https://github.com/joostdecock/remark-jargon-example#readme",
+  "dependencies": {
+    "remark": "latest",
+    "remark-html": "latest",
+    "remark-jargon": "latest"
+  }
+}
